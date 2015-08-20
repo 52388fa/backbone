@@ -1,3 +1,4 @@
+<<<<<<< HEAD
      ____                     __      __
     /\  _`\                  /\ \    /\ \                                   __
     \ \ \ \ \     __      ___\ \ \/'\\ \ \____    ___     ___      __      /\_\    ____
@@ -27,3 +28,7 @@ https://github.com/jashkenas/backbone/graphs/contributors
 
 Special thanks to Robert Kieffer for the original philosophy behind Backbone.
 https://github.com/broofa
+=======
+# backbone
+a test backbone repository
+>>>>>>> 5f0cbd631c81af4cfe4c013f29861f1c436da330
